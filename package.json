@@ -1,0 +1,32 @@
+{
+  "author": {
+    "name": "Eric Bichan"
+  },
+  "name": "forget-me-not",
+  "version": "0.0.1",
+  "homepage": "",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~4.0.0",
+    "npm": "~2.14.3"
+  },
+  "devDependencies": {
+    "wunderlist": "0.1.2"
+  },
+  "dependencies": {
+    "wunderlist": "0.1.2"
+  },
+  "description": "Feed a (real) plant with your productivity",
+  "maintainers": [
+    {
+      "name": "Eric Bichan",
+      "email": "eric.bichan@gmail.com"
+    }
+  ],
+  "readme": "ERROR: No README data found!",
+  "license": "MIT"
+}

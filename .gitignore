@@ -1,0 +1,15 @@
+# Global
+.DS_Store
+Thumbs.db
+.svn
+.settings
+.buildpath
+.project
+*.pem
+*.psd
+
+
+# NPM Builds
+node_modules/
+
+config.js
