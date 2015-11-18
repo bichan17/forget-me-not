@@ -20,8 +20,8 @@ forget-me-not
 =============================
 Feed a (real) plant with your productivity
 
+### To-do
+add in spigot class - takes in tasks/outputs signal to water
+
 ### Notes
 https://www.npmjs.com/package/wunderlist
-
-### To-do
-Put wunderlist services under single instance
